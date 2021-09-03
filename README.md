@@ -7,7 +7,7 @@ Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCzCIKcOL2DzCL3rjyk9GMiA?sub_confirmation=1">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" />
+    <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/youtube.png?v=1528393819" />
   </a>
 </p>
 
