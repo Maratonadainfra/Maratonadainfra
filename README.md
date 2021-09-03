@@ -15,7 +15,7 @@ Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra
   <a href="http://twitter.com/badtux_">
     <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCzCIKcOL2DzCL3rjyk9GMiA?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
