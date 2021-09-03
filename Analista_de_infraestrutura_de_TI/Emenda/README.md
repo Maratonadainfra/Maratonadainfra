@@ -2,5 +2,5 @@
 
 > ### Introdução ao Curso
 ```sh
-D
+Visão geral do curso
 ```
