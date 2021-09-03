@@ -4,8 +4,6 @@ Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra
 
 - :collision: Nossas redes sociais.:collision:
 
-.
-.
 <p align="center">
   <a href="https://www.youtube.com/channel/UCzCIKcOL2DzCL3rjyk9GMiA?sub_confirmation=1">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" />
