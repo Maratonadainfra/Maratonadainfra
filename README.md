@@ -1,6 +1,6 @@
 ### :skull_and_crossbones: .... Sejam bem vindo ao repositorio oficial da maratona da infraestrutura de TI ....  :skull_and_crossbones:
 
-Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra/Maratonadainfra/tree/main/Analista_de_infraestrutura_de_TI)
+[Venha conhecer nossos cursos.](https://github.com/Maratonadainfra/Maratonadainfra/tree/main/Analista_de_infraestrutura_de_TI)
 
 - :collision: Nossas redes sociais.:collision:
 
