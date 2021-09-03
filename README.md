@@ -16,7 +16,7 @@ Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra
     <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/instagram.png?v=1528393819" />
   </a>
    <a href="https://www.linkedin.com/in/maratona-da-infra/">
-    <img src="https://static-public.klickpages.com.br/uploads/media/file/3981436/174857.png" />
+    <img src="https://static-public.klickpages.com.br/uploads/media/file/3981436/174857.png?v=1528393819" />
   </a>
 </p>
 
