@@ -3,6 +3,6 @@
 > ### Introdução ao Curso
 ```sh
 
-Visão geral do curso.
+Introdução
 
 ```
