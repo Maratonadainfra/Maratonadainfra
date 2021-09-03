@@ -1,4 +1,4 @@
-### :skull_and_crossbones: Sejam bem vindo ao repositorio oficial da maratona da infraestrutura de TI....  :skull_and_crossbones:
+### :skull_and_crossbones: .... Sejam bem vindo ao repositorio oficial da maratona da infraestrutura de TI ....  :skull_and_crossbones:
 
 Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
 
