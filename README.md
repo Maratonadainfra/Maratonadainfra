@@ -2,7 +2,8 @@
 
 Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra/Maratonadainfra/tree/main/Analista_de_infraestrutura_de_TI)
 
-- :rocket: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
+- :boom:
+:collision: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
 
 - :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no 
 
