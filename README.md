@@ -1,10 +1,10 @@
 ### :skull_and_crossbones: .... Sejam bem vindo ao repositorio oficial da maratona da infraestrutura de TI ....  :skull_and_crossbones:
 
-Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
+Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra/Maratonadainfra/tree/main/Analista_de_infraestrutura_de_TI)
 
 - :rocket: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
 
-- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
+- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no 
 
 - 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
