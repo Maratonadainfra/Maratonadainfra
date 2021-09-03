@@ -9,6 +9,12 @@ Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra
   <a href="https://www.youtube.com/channel/UCzCIKcOL2DzCL3rjyk9GMiA?sub_confirmation=1">
     <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/youtube.png?v=1528393819" />
   </a>
+  <a href="https://www.facebook.com/maratonadainfra">
+    <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/facebook.png?v=1528393819" />
+  </a>
+  <a href="https://www.instagram.com/maratonadainfra/">
+    <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/instagram.png?v=1528393819" />
+  </a>
 </p>
 
 <!--
