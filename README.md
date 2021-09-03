@@ -4,7 +4,7 @@
 
 - :collision: Nossas redes sociais.:collision:
 #
-#
+
 <p align="left">
   <a href="https://www.youtube.com/channel/UCzCIKcOL2DzCL3rjyk9GMiA?sub_confirmation=1">
     <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/youtube.png?v=1528393819" />
@@ -16,7 +16,7 @@
     <img src="https://static-public.klickpages.com.br/tmp/zip/875/images/instagram.png?v=1528393819" />
   </a>
   </p>
-
+#
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
