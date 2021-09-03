@@ -4,11 +4,6 @@ Venha conhecer nossos cursos. [Nossos cursos](https://github.com/Maratonadainfra
 
 - :collision: Nossas redes sociais.:collision:
 
-- :heavy_check_mark: Facebook: :point_right:
-
-- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no 
-
-- 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCzCIKcOL2DzCL3rjyk9GMiA?sub_confirmation=1">
