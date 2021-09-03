@@ -1,5 +1,5 @@
-| Carga Horária | Forma de ensino  | Cronograma |
-|---|---|---| 
+| Carga Horária | Forma de ensino  | Cronograma | Emenda do curso |
+|---|---|---|---| 
 | [00:05](https://www.twitch.tv/videos/1116708891?t=00h15m54s) | [Patricia Ladislau](https://www.linkedin.com/in/patricialadislausilva/) | Boas práticas no post-installation do Zabbix: não é só instalar e deixar à deriva! |
 | [00:35](https://www.twitch.tv/videos/1116708891?t=00h48m29s) | [Joao Freire](https://www.linkedin.com/in/joaopaulocunhafreire/) | O Kubernetes é seguro por padrão? |
 | [01:05](https://www.twitch.tv/videos/1116708891?t=01h22m39s) | [Camila PunkDoDevOps](https://www.linkedin.com/in/camilla-martins-603344115/) | dev, stg e produção: qual a diferença desses ambientes? |
