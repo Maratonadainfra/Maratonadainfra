@@ -2,5 +2,5 @@
 
 > ### Introdução ao Curso
 ```sh
-Visão geral do curso
+Visão geral do curso.
 ```
